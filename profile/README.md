@@ -20,6 +20,7 @@
 - 📄 **노션 프로젝트 문서**: [노션 바로가기](https://marshy-almanac-d7e.notion.site/24-2-f7bf7780051a4fdc898e86e373bd1b8f?pvs=73)
 - 🎨 **피그마 디자인**: [피그마 바로가기](https://www.figma.com/design/499kfsO2KYFIwRDhbMBa9I/24_2_%EC%A2%85%ED%95%A9%EC%84%A4%EA%B3%84%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EB%8B%A4%EC%9C%A1%EC%9D%B4?node-id=291-48&t=H46ZuxuTZFV2QEbo-1)
 - 🎥 **데모 영상**: [데모 영상 보기](https://www.youtube.com/watch?v=rhLLrYADiKY&feature=youtu.be)
+- 📄 **다육이 문서**: [docs 보러가기](https://dayoooke.github.io/dayoook-e-server-docs/)
 
 
 ## ⚙️ 기술 스택 
@@ -35,8 +36,6 @@ Database: MySQL</br>
 ## 🏗️ 시스템 아키텍처
 ![시스템아키텍처](https://github.com/user-attachments/assets/ac9e5036-f659-4514-8bda-fc7395c9b9c0)
 
-## 자바 doc 
-[docs](https://dayoooke.github.io/dayoook-e-server-docs/)
 
 ## 🌟 기대효과 
 
